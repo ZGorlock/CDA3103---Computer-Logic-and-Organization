@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program1", "Program1\Program1.vcxproj", "{93F0DBAD-0121-4C48-93A0-E1F010D7091B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MIPS Simulator", "MIPS Simulator\MIPS Simulator.vcxproj", "{B9BE2C98-470E-439C-9E28-B6C643DF0136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F0DBAD-0121-4C48-93A0-E1F010D7091B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93F0DBAD-0121-4C48-93A0-E1F010D7091B}.Debug|Win32.Build.0 = Debug|Win32
+		{93F0DBAD-0121-4C48-93A0-E1F010D7091B}.Release|Win32.ActiveCfg = Release|Win32
+		{93F0DBAD-0121-4C48-93A0-E1F010D7091B}.Release|Win32.Build.0 = Release|Win32
+		{B9BE2C98-470E-439C-9E28-B6C643DF0136}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9BE2C98-470E-439C-9E28-B6C643DF0136}.Debug|Win32.Build.0 = Debug|Win32
+		{B9BE2C98-470E-439C-9E28-B6C643DF0136}.Release|Win32.ActiveCfg = Release|Win32
+		{B9BE2C98-470E-439C-9E28-B6C643DF0136}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
